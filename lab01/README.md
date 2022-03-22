@@ -2,7 +2,7 @@
 
 ## Notebook 1 sobre Empréstimos
 
-[notebook1]()
+[notebook1](https://github.com/leofavacho/MC322/blob/main/lab01/notebook/emprestimo01.ipynb)
 
 ## Notebook 2 sobre Empréstimos e TAD (opcional)
 
